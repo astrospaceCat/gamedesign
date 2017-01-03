@@ -1,0 +1,147 @@
+12 29 2016
+
+Blue Line Rules and Component List
+
+Speed: How many spaces you move per turn
+Nitro: The gold pieces. 
+Explode: Exile/Discard. 
+
+golden Rule 1: You only gain the benefit of things you see. 
+Golden Rule 2: It's a work in progress. 
+
+50 Spaces per lap. First to finish 4 laps. 
+
+
+2x Sets of 6 tokens, numbers 1-6
+1 Bag
+4x Player Sheets
+1x board
+
+Set Up:
+-Make the slots buy area by flipping over the top five cards. 
+-Make the Utility buy area by flipping over the top five cards. 
+
+To Roll, Pull out 2 separate tokens from the bag and show the result. a 1 token and a 6 token form [7]. return tokens to the bag after
+To Modify, confirm if you have any cards that allow you to. This is only on your own turn. 
+to Collect, increase your nitro if your slots cards activate. This occurs on every Roll. 
+To Explode, discard/exile a card in your tableau, gaining Nitro equal to its Cost. 
+To Buy, reduce your nitro by the cost on the card, and immediately add it to the top of your tableau. You may only buy one card per line, per turn.
+-Addendum, Your tableau may only have 3 "Active" cards at the start of the turn. Every lap gives you an additional Active Slot. 
+To Move, move your Speed in spaces. 
+To Activate an Ability, this may be done at any time on your turn. 
+
+1. "Roll"
+2. "Modify"
+3. "Collect"
+4a. "Explode"
+4b. "Buy"
+5. "Move"
+X. Activate Abilities Once per turn. 
+
+4x +1 Nitro, +1 Nitro
+4x +1 Speed, +1 Speed
+4x +1 Nitro, on roll of 7 Gain 1 Nitro
+
+12x Starter Cards
+
+3x 1 Die Cards, Speed
+1x 1 Die Cards, Nitro
+3x 2 Die Cards, Speed
+1x 2 Die Cards, Nitro
+3x 3 Die Cards, Speed
+1x 3 Die Cards, Nitro
+3x 4 Die Cards, Speed
+1x 4 Die Cards, Nitro
+3x 5 Die Cards, Speed
+1x 5 Die Cards, Nitro
+3x 6 Die Cards, Speed
+1x 6 Die Cards, Nitro
+
+24 Cards, Slots
+
+3x, +1 thru +3 2  Card
+3x, +1 thru +3 3  Card
+3x, +1 thru +3 4  Card
+3x, +1 thru +3 5  Card
+3x, +1 thru +3 6  Card
+3x, +1 thru +3 7  Card
+3x, +1 thru +3 8  Card
+3x, +1 thru +3 9  Card
+3x, +1 thru +3 10 Card
+3x, +1 thru +3 11 Card
+3x, +1 thru +3 12 Card
+
+33 Cards, Slots
+
+4x +1 Nitro/+1 Nitro for Doubles, Cost 4
+4x +1 Nitro/+1 Nitro for Even Rolls, Cost 4
+4x +1 Nitro/+1 Nitro for Odd Rolls, Cost 4
+
+12 Cards, Slots
+
+Total Slots Card Count: 69 Cards
+
+4x +1/+1 Speed Cards. Cost 3
+4x +2/+2 Speed Cards. Cost 5
+4x +3/+3 Speed Cards. Cost 7
+3x +5/+4 Speed Cards. Cost 9
+
+15 Cards, Vroom
+
+3x +0/+1 Nitro Cards, Cost 3
+3x +1/+1 Nitro Cards, Cost 4
+3x +2/+2 Nitro Cards, Cost 7
+3x +3/+3 Nitro Cards, Cost 10
+
+12 Cards, Buy Cards
+
+3x Modify +1,  3 cost
+3x Modify -1,  3 Cost
+3x Modify +/-1 5 Cost
+1x Modify up to +2,  4 cost
+1x Modify up to -1,  4 Cost
+1x Modify up to +/-2 7 Cost
+1x 0/Modify +1,   5 Cost
+1x 0/Modify -1,   5 Cost
+1x 0/Modify +/-1, 8 Cost
+
+15x Cards, Vroom
+Total Utility Cards above : 42
+
+4x Move 5 squares forward when Not In First, Activate, +2 Speed Cost 6
+4x +3 Speed for Each person in front of you, +2 Speed cost 7
+3x +2 squares whenever someone passes you, +1 Speed, Cost 4
+
+11x Position Based Cards
+
+4x (May only have 1) Additional Active Slot. Cost 6
+4x Create a single card reserve slot. Only you may buy it, +1 speed.  Cost 3
+3x Spend 2 Nitro to activate another card's ability. 
+
+11x Utility cards
+
+4x Spend 3 Nitro to gain 1 Speed, +1 Speed. Cost 4
+4x +2 Nitro, Spend 5 Nitro to gain 1 Speed. Cost 7
+4x Nothing, Spend 4 Nitro to Gain 1 Speed. Cost 8
+4x Nothing, Spend 3 Nitro to gain 1 Speed. Cost 11
+4x Explode an Upgrade to gain its cost in Speed, +1 Speed. Cost 5. 
+4x +1 Nitro, Explode an Upgrade to gain its cost in Speed. Cost 9. 
+
+24x Engine Cards
+
+6x Add A personal token to the Dice Bag. When Drawn is Wild, these give the user +2 Nitro and +2 Speed. . 7 cost. 
+4x On your roll may discard 1 token and draw another, +1 Speed. cost 4
+6x On your roll draw 1 additional and choose 2. stacks with itself, +2 Speed Cost 8
+
+
+16 Fate Cards
+
+
+Inspirations:
+REDLINE, anime movie
+Wacky Racers, old cartoon
+Race to the Galaxy, for Tableau
+
+Ideas for Later cards
+4x Switch This active card with another in your engine, +1 speed. Cost 4
+4x Spend 3 Nitro and put a marker on this upgrade. Spend a marker to activate another ability. 
